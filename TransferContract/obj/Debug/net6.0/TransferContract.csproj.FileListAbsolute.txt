@@ -1,0 +1,12 @@
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\bin\Debug\net6.0\TransferContract.deps.json
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\bin\Debug\net6.0\TransferContract.dll
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\bin\Debug\net6.0\TransferContract.pdb
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.csproj.AssemblyReference.cache
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.AssemblyInfoInputs.cache
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.AssemblyInfo.cs
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.csproj.CoreCompileInputs.cache
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.dll
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\refint\TransferContract.dll
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\TransferContract.pdb
+E:\project\neo-blockchain\Token-Lock-Flamingo\TransferContract\obj\Debug\net6.0\ref\TransferContract.dll

@@ -1,0 +1,1 @@
+{"name":"TransferContract","groups":[],"features":{},"supportedstandards":[],"abi":{"methods":[{"name":"main","offset":0,"safe":false,"returntype":"Boolean","parameters":[]}],"events":[]},"permissions":[],"trusts":[],"extra":{"Author":"Carlo","Email":"developer@neo.org","Description":"This is a TransferContract"}}
