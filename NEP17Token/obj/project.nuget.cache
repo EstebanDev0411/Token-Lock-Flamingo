@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXO2hvHVmiNPe2M2eNqki9Zjeri0Wd+paJsspNaxJ+0odGyA3o+bcY0wGjDcVnOnMB0BIz9w3WwkaDSSdZHlKA==",
+  "success": true,
+  "projectFilePath": "E:\\project\\neo-blockchain\\Token-Lock-Flamingo\\NEP17Token\\NEP17Token.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo.smartcontract.framework\\3.5.0\\neo.smartcontract.framework.3.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\neo3.compiler.csharp.dev\\3.5.0\\neo3.compiler.csharp.dev.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

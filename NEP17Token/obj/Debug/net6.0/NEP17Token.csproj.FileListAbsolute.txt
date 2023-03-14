@@ -1,0 +1,12 @@
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\bin\Debug\net6.0\NEP17Token.deps.json
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\bin\Debug\net6.0\NEP17Token.dll
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\bin\Debug\net6.0\NEP17Token.pdb
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.csproj.AssemblyReference.cache
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.AssemblyInfoInputs.cache
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.AssemblyInfo.cs
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.csproj.CoreCompileInputs.cache
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.dll
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\refint\NEP17Token.dll
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\NEP17Token.pdb
+E:\project\neo-blockchain\Token-Lock-Flamingo\NEP17Token\obj\Debug\net6.0\ref\NEP17Token.dll
